@@ -1,0 +1,3514 @@
+{
+  "method": "Offline saved-schematic endpoint and label diagnostic, not an Altium compiled netlist. No current PCB pad comparison.",
+  "source_sha256": "9fb0d58a0eebe4ee72d29c01b94c2676cc5a1ff5518863062b1dcd219a133f8b",
+  "nets": [
+    {
+      "labels": [
+        "+5",
+        "5V"
+      ],
+      "pins": [
+        {
+          "designator": "J1",
+          "pin": "1",
+          "name": "1",
+          "point": [
+            90,
+            1040
+          ]
+        },
+        {
+          "designator": "J2",
+          "pin": "1",
+          "name": "1",
+          "point": [
+            90,
+            1120
+          ]
+        },
+        {
+          "designator": "U7",
+          "pin": "20",
+          "name": "VCC",
+          "point": [
+            160,
+            1240
+          ]
+        },
+        {
+          "designator": "C1",
+          "pin": "1",
+          "name": "1",
+          "point": [
+            200,
+            1200
+          ]
+        },
+        {
+          "designator": "R30",
+          "pin": "2",
+          "name": "2",
+          "point": [
+            1090,
+            1430
+          ]
+        },
+        {
+          "designator": "R32",
+          "pin": "2",
+          "name": "2",
+          "point": [
+            1090,
+            1340
+          ]
+        },
+        {
+          "designator": "R35",
+          "pin": "1",
+          "name": "1",
+          "point": [
+            200,
+            1100
+          ]
+        },
+        {
+          "designator": "EN1",
+          "pin": "1",
+          "name": "1",
+          "point": [
+            710,
+            1120
+          ]
+        },
+        {
+          "designator": "EN2",
+          "pin": "1",
+          "name": "1",
+          "point": [
+            220,
+            900
+          ]
+        },
+        {
+          "designator": "EN3",
+          "pin": "1",
+          "name": "1",
+          "point": [
+            750,
+            690
+          ]
+        },
+        {
+          "designator": "EN4",
+          "pin": "1",
+          "name": "1",
+          "point": [
+            210,
+            520
+          ]
+        },
+        {
+          "designator": "EN5",
+          "pin": "1",
+          "name": "1",
+          "point": [
+            770,
+            350
+          ]
+        },
+        {
+          "designator": "EN6",
+          "pin": "1",
+          "name": "1",
+          "point": [
+            210,
+            170
+          ]
+        }
+      ],
+      "id": 0
+    },
+    {
+      "labels": [
+        "DGND",
+        "GND"
+      ],
+      "pins": [
+        {
+          "designator": "U1",
+          "pin": "3",
+          "name": "IN-",
+          "point": [
+            970,
+            1010
+          ]
+        },
+        {
+          "designator": "U1",
+          "pin": "4",
+          "name": "GND1",
+          "point": [
+            970,
+            990
+          ]
+        },
+        {
+          "designator": "PS1",
+          "pin": "2",
+          "name": "-VIN",
+          "point": [
+            980,
+            1090
+          ]
+        },
+        {
+          "designator": "R21",
+          "pin": "1",
+          "name": "1",
+          "point": [
+            870,
+            990
+          ]
+        },
+        {
+          "designator": "C16",
+          "pin": "2",
+          "name": "2",
+          "point": [
+            830,
+            1000
+          ]
+        },
+        {
+          "designator": "C14",
+          "pin": "2",
+          "name": "2",
+          "point": [
+            940,
+            1090
+          ]
+        },
+        {
+          "designator": "J1",
+          "pin": "2",
+          "name": "2",
+          "point": [
+            90,
+            1020
+          ]
+        },
+        {
+          "designator": "U2",
+          "pin": "3",
+          "name": "IN-",
+          "point": [
+            420,
+            790
+          ]
+        },
+        {
+          "designator": "U2",
+          "pin": "4",
+          "name": "GND1",
+          "point": [
+            420,
+            770
+          ]
+        },
+        {
+          "designator": "PS2",
+          "pin": "2",
+          "name": "-VIN",
+          "point": [
+            430,
+            870
+          ]
+        },
+        {
+          "designator": "R23",
+          "pin": "1",
+          "name": "1",
+          "point": [
+            320,
+            770
+          ]
+        },
+        {
+          "designator": "C22",
+          "pin": "2",
+          "name": "2",
+          "point": [
+            280,
+            780
+          ]
+        },
+        {
+          "designator": "C20",
+          "pin": "2",
+          "name": "2",
+          "point": [
+            390,
+            870
+          ]
+        },
+        {
+          "designator": "U3",
+          "pin": "3",
+          "name": "IN-",
+          "point": [
+            960,
+            600
+          ]
+        },
+        {
+          "designator": "U3",
+          "pin": "4",
+          "name": "GND1",
+          "point": [
+            960,
+            580
+          ]
+        },
+        {
+          "designator": "PS3",
+          "pin": "2",
+          "name": "-VIN",
+          "point": [
+            970,
+            680
+          ]
+        },
+        {
+          "designator": "R25",
+          "pin": "1",
+          "name": "1",
+          "point": [
+            860,
+            580
+          ]
+        },
+        {
+          "designator": "C28",
+          "pin": "2",
+          "name": "2",
+          "point": [
+            820,
+            590
+          ]
+        },
+        {
+          "designator": "C26",
+          "pin": "2",
+          "name": "2",
+          "point": [
+            930,
+            680
+          ]
+        },
+        {
+          "designator": "U4",
+          "pin": "3",
+          "name": "IN-",
+          "point": [
+            400,
+            430
+          ]
+        },
+        {
+          "designator": "U4",
+          "pin": "4",
+          "name": "GND1",
+          "point": [
+            400,
+            410
+          ]
+        },
+        {
+          "designator": "PS4",
+          "pin": "2",
+          "name": "-VIN",
+          "point": [
+            410,
+            510
+          ]
+        },
+        {
+          "designator": "R27",
+          "pin": "1",
+          "name": "1",
+          "point": [
+            300,
+            410
+          ]
+        },
+        {
+          "designator": "C34",
+          "pin": "2",
+          "name": "2",
+          "point": [
+            260,
+            420
+          ]
+        },
+        {
+          "designator": "C32",
+          "pin": "2",
+          "name": "2",
+          "point": [
+            370,
+            510
+          ]
+        },
+        {
+          "designator": "U5",
+          "pin": "3",
+          "name": "IN-",
+          "point": [
+            990,
+            250
+          ]
+        },
+        {
+          "designator": "U5",
+          "pin": "4",
+          "name": "GND1",
+          "point": [
+            990,
+            230
+          ]
+        },
+        {
+          "designator": "PS5",
+          "pin": "2",
+          "name": "-VIN",
+          "point": [
+            1000,
+            330
+          ]
+        },
+        {
+          "designator": "R29",
+          "pin": "1",
+          "name": "1",
+          "point": [
+            890,
+            230
+          ]
+        },
+        {
+          "designator": "C40",
+          "pin": "2",
+          "name": "2",
+          "point": [
+            850,
+            240
+          ]
+        },
+        {
+          "designator": "C38",
+          "pin": "2",
+          "name": "2",
+          "point": [
+            960,
+            330
+          ]
+        },
+        {
+          "designator": "U6",
+          "pin": "3",
+          "name": "IN-",
+          "point": [
+            390,
+            80
+          ]
+        },
+        {
+          "designator": "U6",
+          "pin": "4",
+          "name": "GND1",
+          "point": [
+            390,
+            60
+          ]
+        },
+        {
+          "designator": "PS6",
+          "pin": "2",
+          "name": "-VIN",
+          "point": [
+            400,
+            160
+          ]
+        },
+        {
+          "designator": "R31",
+          "pin": "1",
+          "name": "1",
+          "point": [
+            290,
+            60
+          ]
+        },
+        {
+          "designator": "C46",
+          "pin": "2",
+          "name": "2",
+          "point": [
+            250,
+            70
+          ]
+        },
+        {
+          "designator": "C44",
+          "pin": "2",
+          "name": "2",
+          "point": [
+            360,
+            160
+          ]
+        },
+        {
+          "designator": "J2",
+          "pin": "2",
+          "name": "2",
+          "point": [
+            90,
+            1100
+          ]
+        },
+        {
+          "designator": "U7",
+          "pin": "10",
+          "name": "GND",
+          "point": [
+            260,
+            1240
+          ]
+        },
+        {
+          "designator": "U7",
+          "pin": "15",
+          "name": "2A3",
+          "point": [
+            120,
+            1300
+          ]
+        },
+        {
+          "designator": "U7",
+          "pin": "17",
+          "name": "2A4",
+          "point": [
+            120,
+            1290
+          ]
+        },
+        {
+          "designator": "C1",
+          "pin": "2",
+          "name": "2",
+          "point": [
+            220,
+            1200
+          ]
+        },
+        {
+          "designator": "R13",
+          "pin": "2",
+          "name": "2",
+          "point": [
+            480,
+            1440
+          ]
+        },
+        {
+          "designator": "R14",
+          "pin": "2",
+          "name": "2",
+          "point": [
+            580,
+            1440
+          ]
+        },
+        {
+          "designator": "R15",
+          "pin": "2",
+          "name": "2",
+          "point": [
+            680,
+            1440
+          ]
+        },
+        {
+          "designator": "R16",
+          "pin": "2",
+          "name": "2",
+          "point": [
+            770,
+            1440
+          ]
+        },
+        {
+          "designator": "R17",
+          "pin": "2",
+          "name": "2",
+          "point": [
+            860,
+            1440
+          ]
+        },
+        {
+          "designator": "R18",
+          "pin": "2",
+          "name": "2",
+          "point": [
+            960,
+            1440
+          ]
+        },
+        {
+          "designator": "R19",
+          "pin": "2",
+          "name": "2",
+          "point": [
+            480,
+            1330
+          ]
+        },
+        {
+          "designator": "R20",
+          "pin": "2",
+          "name": "2",
+          "point": [
+            580,
+            1330
+          ]
+        },
+        {
+          "designator": "R22",
+          "pin": "2",
+          "name": "2",
+          "point": [
+            680,
+            1330
+          ]
+        },
+        {
+          "designator": "R24",
+          "pin": "2",
+          "name": "2",
+          "point": [
+            770,
+            1330
+          ]
+        },
+        {
+          "designator": "R26",
+          "pin": "2",
+          "name": "2",
+          "point": [
+            860,
+            1330
+          ]
+        },
+        {
+          "designator": "R28",
+          "pin": "2",
+          "name": "2",
+          "point": [
+            960,
+            1330
+          ]
+        },
+        {
+          "designator": "DS6",
+          "pin": "1",
+          "name": "K",
+          "point": [
+            60,
+            510
+          ]
+        },
+        {
+          "designator": "DS4",
+          "pin": "1",
+          "name": "K",
+          "point": [
+            50,
+            710
+          ]
+        },
+        {
+          "designator": "DS1",
+          "pin": "1",
+          "name": "K",
+          "point": [
+            330,
+            1100
+          ]
+        }
+      ],
+      "id": 1
+    },
+    {
+      "labels": [
+        "Gate1"
+      ],
+      "pins": [
+        {
+          "designator": "U1",
+          "pin": "7",
+          "name": "CLAMP",
+          "point": [
+            1130,
+            1010
+          ]
+        },
+        {
+          "designator": "J8",
+          "pin": "1",
+          "name": "1",
+          "point": [
+            1560,
+            1030
+          ]
+        },
+        {
+          "designator": "R2",
+          "pin": "2",
+          "name": "2",
+          "point": [
+            1200,
+            1030
+          ]
+        },
+        {
+          "designator": "TP10",
+          "pin": "1",
+          "name": "1",
+          "point": [
+            1930,
+            1080
+          ]
+        }
+      ],
+      "id": 2
+    },
+    {
+      "labels": [
+        "Gate2"
+      ],
+      "pins": [
+        {
+          "designator": "U2",
+          "pin": "7",
+          "name": "CLAMP",
+          "point": [
+            580,
+            790
+          ]
+        },
+        {
+          "designator": "J9",
+          "pin": "1",
+          "name": "1",
+          "point": [
+            1010,
+            810
+          ]
+        },
+        {
+          "designator": "R4",
+          "pin": "2",
+          "name": "2",
+          "point": [
+            650,
+            810
+          ]
+        },
+        {
+          "designator": "TP13",
+          "pin": "1",
+          "name": "1",
+          "point": [
+            1370,
+            820
+          ]
+        }
+      ],
+      "id": 3
+    },
+    {
+      "labels": [
+        "Gate3"
+      ],
+      "pins": [
+        {
+          "designator": "U3",
+          "pin": "7",
+          "name": "CLAMP",
+          "point": [
+            1120,
+            600
+          ]
+        },
+        {
+          "designator": "J11",
+          "pin": "1",
+          "name": "1",
+          "point": [
+            1550,
+            620
+          ]
+        },
+        {
+          "designator": "R6",
+          "pin": "2",
+          "name": "2",
+          "point": [
+            1190,
+            620
+          ]
+        },
+        {
+          "designator": "TP16",
+          "pin": "1",
+          "name": "1",
+          "point": [
+            1930,
+            640
+          ]
+        }
+      ],
+      "id": 4
+    },
+    {
+      "labels": [
+        "Gate4"
+      ],
+      "pins": [
+        {
+          "designator": "U4",
+          "pin": "7",
+          "name": "CLAMP",
+          "point": [
+            560,
+            430
+          ]
+        },
+        {
+          "designator": "J12",
+          "pin": "1",
+          "name": "1",
+          "point": [
+            990,
+            450
+          ]
+        },
+        {
+          "designator": "R8",
+          "pin": "2",
+          "name": "2",
+          "point": [
+            630,
+            450
+          ]
+        },
+        {
+          "designator": "TP21",
+          "pin": "1",
+          "name": "1",
+          "point": [
+            1370,
+            460
+          ]
+        }
+      ],
+      "id": 5
+    },
+    {
+      "labels": [
+        "Gate5"
+      ],
+      "pins": [
+        {
+          "designator": "U5",
+          "pin": "7",
+          "name": "CLAMP",
+          "point": [
+            1150,
+            250
+          ]
+        },
+        {
+          "designator": "J13",
+          "pin": "1",
+          "name": "1",
+          "point": [
+            1580,
+            270
+          ]
+        },
+        {
+          "designator": "R10",
+          "pin": "2",
+          "name": "2",
+          "point": [
+            1220,
+            270
+          ]
+        },
+        {
+          "designator": "TP27",
+          "pin": "1",
+          "name": "1",
+          "point": [
+            1950,
+            290
+          ]
+        }
+      ],
+      "id": 6
+    },
+    {
+      "labels": [
+        "Gate6"
+      ],
+      "pins": [
+        {
+          "designator": "U6",
+          "pin": "7",
+          "name": "CLAMP",
+          "point": [
+            550,
+            80
+          ]
+        },
+        {
+          "designator": "J14",
+          "pin": "1",
+          "name": "1",
+          "point": [
+            980,
+            100
+          ]
+        },
+        {
+          "designator": "R12",
+          "pin": "2",
+          "name": "2",
+          "point": [
+            620,
+            100
+          ]
+        },
+        {
+          "designator": "TP31",
+          "pin": "1",
+          "name": "1",
+          "point": [
+            1370,
+            100
+          ]
+        }
+      ],
+      "id": 7
+    },
+    {
+      "labels": [
+        "PWM1"
+      ],
+      "pins": [
+        {
+          "designator": "J10",
+          "pin": "1",
+          "name": "1",
+          "point": [
+            90,
+            430
+          ]
+        },
+        {
+          "designator": "U7",
+          "pin": "2",
+          "name": "1A1",
+          "point": [
+            300,
+            1300
+          ]
+        },
+        {
+          "designator": "R13",
+          "pin": "1",
+          "name": "1",
+          "point": [
+            480,
+            1370
+          ]
+        },
+        {
+          "designator": "TP18",
+          "pin": "1",
+          "name": "1",
+          "point": [
+            50,
+            320
+          ]
+        }
+      ],
+      "id": 8
+    },
+    {
+      "labels": [
+        "PWM2"
+      ],
+      "pins": [
+        {
+          "designator": "J10",
+          "pin": "2",
+          "name": "2",
+          "point": [
+            90,
+            420
+          ]
+        },
+        {
+          "designator": "U7",
+          "pin": "4",
+          "name": "1A2",
+          "point": [
+            300,
+            1290
+          ]
+        },
+        {
+          "designator": "R14",
+          "pin": "1",
+          "name": "1",
+          "point": [
+            580,
+            1370
+          ]
+        },
+        {
+          "designator": "TP20",
+          "pin": "1",
+          "name": "1",
+          "point": [
+            50,
+            270
+          ]
+        }
+      ],
+      "id": 9
+    },
+    {
+      "labels": [
+        "PWM3"
+      ],
+      "pins": [
+        {
+          "designator": "J10",
+          "pin": "3",
+          "name": "3",
+          "point": [
+            90,
+            410
+          ]
+        },
+        {
+          "designator": "U7",
+          "pin": "6",
+          "name": "1A3",
+          "point": [
+            300,
+            1280
+          ]
+        },
+        {
+          "designator": "R15",
+          "pin": "1",
+          "name": "1",
+          "point": [
+            680,
+            1370
+          ]
+        },
+        {
+          "designator": "TP23",
+          "pin": "1",
+          "name": "1",
+          "point": [
+            50,
+            220
+          ]
+        }
+      ],
+      "id": 10
+    },
+    {
+      "labels": [
+        "PWM4"
+      ],
+      "pins": [
+        {
+          "designator": "J10",
+          "pin": "4",
+          "name": "4",
+          "point": [
+            90,
+            400
+          ]
+        },
+        {
+          "designator": "U7",
+          "pin": "8",
+          "name": "1A4",
+          "point": [
+            300,
+            1270
+          ]
+        },
+        {
+          "designator": "R16",
+          "pin": "1",
+          "name": "1",
+          "point": [
+            770,
+            1370
+          ]
+        },
+        {
+          "designator": "TP24",
+          "pin": "1",
+          "name": "1",
+          "point": [
+            50,
+            160
+          ]
+        }
+      ],
+      "id": 11
+    },
+    {
+      "labels": [
+        "PWM5"
+      ],
+      "pins": [
+        {
+          "designator": "J10",
+          "pin": "5",
+          "name": "5",
+          "point": [
+            90,
+            390
+          ]
+        },
+        {
+          "designator": "U7",
+          "pin": "11",
+          "name": "2A1",
+          "point": [
+            120,
+            1320
+          ]
+        },
+        {
+          "designator": "R17",
+          "pin": "1",
+          "name": "1",
+          "point": [
+            860,
+            1370
+          ]
+        },
+        {
+          "designator": "TP26",
+          "pin": "1",
+          "name": "1",
+          "point": [
+            50,
+            110
+          ]
+        }
+      ],
+      "id": 12
+    },
+    {
+      "labels": [
+        "PWM6"
+      ],
+      "pins": [
+        {
+          "designator": "J10",
+          "pin": "6",
+          "name": "6",
+          "point": [
+            90,
+            380
+          ]
+        },
+        {
+          "designator": "U7",
+          "pin": "13",
+          "name": "2A2",
+          "point": [
+            120,
+            1310
+          ]
+        },
+        {
+          "designator": "R18",
+          "pin": "1",
+          "name": "1",
+          "point": [
+            960,
+            1370
+          ]
+        },
+        {
+          "designator": "TP29",
+          "pin": "1",
+          "name": "1",
+          "point": [
+            50,
+            60
+          ]
+        }
+      ],
+      "id": 13
+    },
+    {
+      "labels": [
+        "ISOL1+"
+      ],
+      "pins": [
+        {
+          "designator": "U1",
+          "pin": "5",
+          "name": "VCC2",
+          "point": [
+            1130,
+            1050
+          ]
+        },
+        {
+          "designator": "PS1",
+          "pin": "6",
+          "name": "+VOUT",
+          "point": [
+            1110,
+            1110
+          ]
+        },
+        {
+          "designator": "C13",
+          "pin": "1",
+          "name": "1",
+          "point": [
+            1180,
+            1120
+          ]
+        },
+        {
+          "designator": "C15",
+          "pin": "1",
+          "name": "1",
+          "point": [
+            1140,
+            1110
+          ]
+        },
+        {
+          "designator": "C17",
+          "pin": "1",
+          "name": "1",
+          "point": [
+            1250,
+            1010
+          ]
+        },
+        {
+          "designator": "C18",
+          "pin": "1",
+          "name": "1",
+          "point": [
+            1280,
+            1010
+          ]
+        },
+        {
+          "designator": "D1",
+          "pin": "1",
+          "name": "K",
+          "point": [
+            1440,
+            1120
+          ]
+        },
+        {
+          "designator": "R1",
+          "pin": "1",
+          "name": "1",
+          "point": [
+            1330,
+            1140
+          ]
+        },
+        {
+          "designator": "TP9",
+          "pin": "1",
+          "name": "1",
+          "point": [
+            1870,
+            1100
+          ]
+        },
+        {
+          "designator": "R37",
+          "pin": "1",
+          "name": "1",
+          "point": [
+            1670,
+            1080
+          ]
+        }
+      ],
+      "id": 14
+    },
+    {
+      "labels": [
+        "ISOL1-"
+      ],
+      "pins": [
+        {
+          "designator": "U1",
+          "pin": "8",
+          "name": "VEE2",
+          "point": [
+            1130,
+            990
+          ]
+        },
+        {
+          "designator": "PS1",
+          "pin": "4",
+          "name": "-VOUT",
+          "point": [
+            1110,
+            1090
+          ]
+        },
+        {
+          "designator": "C13",
+          "pin": "2",
+          "name": "2",
+          "point": [
+            1180,
+            1100
+          ]
+        },
+        {
+          "designator": "C15",
+          "pin": "2",
+          "name": "2",
+          "point": [
+            1140,
+            1090
+          ]
+        },
+        {
+          "designator": "C17",
+          "pin": "2",
+          "name": "2",
+          "point": [
+            1250,
+            990
+          ]
+        },
+        {
+          "designator": "C18",
+          "pin": "2",
+          "name": "2",
+          "point": [
+            1280,
+            990
+          ]
+        },
+        {
+          "designator": "J8",
+          "pin": "2",
+          "name": "2",
+          "point": [
+            1560,
+            1010
+          ]
+        },
+        {
+          "designator": "D1",
+          "pin": "2",
+          "name": "A",
+          "point": [
+            1490,
+            1120
+          ]
+        },
+        {
+          "designator": "R1",
+          "pin": "2",
+          "name": "2",
+          "point": [
+            1400,
+            1140
+          ]
+        },
+        {
+          "designator": "TP11",
+          "pin": "1",
+          "name": "1",
+          "point": [
+            1870,
+            1050
+          ]
+        },
+        {
+          "designator": "DS2",
+          "pin": "1",
+          "name": "K",
+          "point": [
+            1790,
+            1080
+          ]
+        }
+      ],
+      "id": 15
+    },
+    {
+      "labels": [
+        "ISOL2+"
+      ],
+      "pins": [
+        {
+          "designator": "U2",
+          "pin": "5",
+          "name": "VCC2",
+          "point": [
+            580,
+            830
+          ]
+        },
+        {
+          "designator": "PS2",
+          "pin": "6",
+          "name": "+VOUT",
+          "point": [
+            560,
+            890
+          ]
+        },
+        {
+          "designator": "C19",
+          "pin": "1",
+          "name": "1",
+          "point": [
+            630,
+            900
+          ]
+        },
+        {
+          "designator": "C21",
+          "pin": "1",
+          "name": "1",
+          "point": [
+            590,
+            890
+          ]
+        },
+        {
+          "designator": "C23",
+          "pin": "1",
+          "name": "1",
+          "point": [
+            700,
+            790
+          ]
+        },
+        {
+          "designator": "C24",
+          "pin": "1",
+          "name": "1",
+          "point": [
+            730,
+            790
+          ]
+        },
+        {
+          "designator": "R3",
+          "pin": "1",
+          "name": "1",
+          "point": [
+            810,
+            890
+          ]
+        },
+        {
+          "designator": "D2",
+          "pin": "1",
+          "name": "K",
+          "point": [
+            910,
+            860
+          ]
+        },
+        {
+          "designator": "TP12",
+          "pin": "1",
+          "name": "1",
+          "point": [
+            1300,
+            840
+          ]
+        },
+        {
+          "designator": "R38",
+          "pin": "1",
+          "name": "1",
+          "point": [
+            1130,
+            820
+          ]
+        }
+      ],
+      "id": 16
+    },
+    {
+      "labels": [
+        "ISOL2-"
+      ],
+      "pins": [
+        {
+          "designator": "U2",
+          "pin": "8",
+          "name": "VEE2",
+          "point": [
+            580,
+            770
+          ]
+        },
+        {
+          "designator": "PS2",
+          "pin": "4",
+          "name": "-VOUT",
+          "point": [
+            560,
+            870
+          ]
+        },
+        {
+          "designator": "C19",
+          "pin": "2",
+          "name": "2",
+          "point": [
+            630,
+            880
+          ]
+        },
+        {
+          "designator": "C21",
+          "pin": "2",
+          "name": "2",
+          "point": [
+            590,
+            870
+          ]
+        },
+        {
+          "designator": "C23",
+          "pin": "2",
+          "name": "2",
+          "point": [
+            700,
+            770
+          ]
+        },
+        {
+          "designator": "C24",
+          "pin": "2",
+          "name": "2",
+          "point": [
+            730,
+            770
+          ]
+        },
+        {
+          "designator": "J9",
+          "pin": "2",
+          "name": "2",
+          "point": [
+            1010,
+            790
+          ]
+        },
+        {
+          "designator": "R3",
+          "pin": "2",
+          "name": "2",
+          "point": [
+            880,
+            890
+          ]
+        },
+        {
+          "designator": "D2",
+          "pin": "2",
+          "name": "A",
+          "point": [
+            960,
+            860
+          ]
+        },
+        {
+          "designator": "TP14",
+          "pin": "1",
+          "name": "1",
+          "point": [
+            1300,
+            800
+          ]
+        },
+        {
+          "designator": "DS3",
+          "pin": "1",
+          "name": "K",
+          "point": [
+            1250,
+            820
+          ]
+        }
+      ],
+      "id": 17
+    },
+    {
+      "labels": [
+        "ISOL3+"
+      ],
+      "pins": [
+        {
+          "designator": "U3",
+          "pin": "5",
+          "name": "VCC2",
+          "point": [
+            1120,
+            640
+          ]
+        },
+        {
+          "designator": "PS3",
+          "pin": "6",
+          "name": "+VOUT",
+          "point": [
+            1100,
+            700
+          ]
+        },
+        {
+          "designator": "C25",
+          "pin": "1",
+          "name": "1",
+          "point": [
+            1170,
+            710
+          ]
+        },
+        {
+          "designator": "C27",
+          "pin": "1",
+          "name": "1",
+          "point": [
+            1130,
+            700
+          ]
+        },
+        {
+          "designator": "C29",
+          "pin": "1",
+          "name": "1",
+          "point": [
+            1240,
+            600
+          ]
+        },
+        {
+          "designator": "C30",
+          "pin": "1",
+          "name": "1",
+          "point": [
+            1270,
+            600
+          ]
+        },
+        {
+          "designator": "R5",
+          "pin": "1",
+          "name": "1",
+          "point": [
+            1350,
+            700
+          ]
+        },
+        {
+          "designator": "D3",
+          "pin": "1",
+          "name": "K",
+          "point": [
+            1450,
+            670
+          ]
+        },
+        {
+          "designator": "TP15",
+          "pin": "1",
+          "name": "1",
+          "point": [
+            1880,
+            660
+          ]
+        },
+        {
+          "designator": "R39",
+          "pin": "1",
+          "name": "1",
+          "point": [
+            1680,
+            640
+          ]
+        }
+      ],
+      "id": 18
+    },
+    {
+      "labels": [
+        "ISOL3-"
+      ],
+      "pins": [
+        {
+          "designator": "U3",
+          "pin": "8",
+          "name": "VEE2",
+          "point": [
+            1120,
+            580
+          ]
+        },
+        {
+          "designator": "PS3",
+          "pin": "4",
+          "name": "-VOUT",
+          "point": [
+            1100,
+            680
+          ]
+        },
+        {
+          "designator": "C25",
+          "pin": "2",
+          "name": "2",
+          "point": [
+            1170,
+            690
+          ]
+        },
+        {
+          "designator": "C27",
+          "pin": "2",
+          "name": "2",
+          "point": [
+            1130,
+            680
+          ]
+        },
+        {
+          "designator": "C29",
+          "pin": "2",
+          "name": "2",
+          "point": [
+            1240,
+            580
+          ]
+        },
+        {
+          "designator": "C30",
+          "pin": "2",
+          "name": "2",
+          "point": [
+            1270,
+            580
+          ]
+        },
+        {
+          "designator": "J11",
+          "pin": "2",
+          "name": "2",
+          "point": [
+            1550,
+            600
+          ]
+        },
+        {
+          "designator": "R5",
+          "pin": "2",
+          "name": "2",
+          "point": [
+            1420,
+            700
+          ]
+        },
+        {
+          "designator": "D3",
+          "pin": "2",
+          "name": "A",
+          "point": [
+            1500,
+            670
+          ]
+        },
+        {
+          "designator": "TP17",
+          "pin": "1",
+          "name": "1",
+          "point": [
+            1880,
+            610
+          ]
+        },
+        {
+          "designator": "DS5",
+          "pin": "1",
+          "name": "K",
+          "point": [
+            1800,
+            640
+          ]
+        }
+      ],
+      "id": 19
+    },
+    {
+      "labels": [
+        "ISOL4+"
+      ],
+      "pins": [
+        {
+          "designator": "U4",
+          "pin": "5",
+          "name": "VCC2",
+          "point": [
+            560,
+            470
+          ]
+        },
+        {
+          "designator": "PS4",
+          "pin": "6",
+          "name": "+VOUT",
+          "point": [
+            540,
+            530
+          ]
+        },
+        {
+          "designator": "C31",
+          "pin": "1",
+          "name": "1",
+          "point": [
+            610,
+            540
+          ]
+        },
+        {
+          "designator": "C33",
+          "pin": "1",
+          "name": "1",
+          "point": [
+            570,
+            530
+          ]
+        },
+        {
+          "designator": "C35",
+          "pin": "1",
+          "name": "1",
+          "point": [
+            680,
+            430
+          ]
+        },
+        {
+          "designator": "C36",
+          "pin": "1",
+          "name": "1",
+          "point": [
+            710,
+            430
+          ]
+        },
+        {
+          "designator": "R7",
+          "pin": "1",
+          "name": "1",
+          "point": [
+            790,
+            520
+          ]
+        },
+        {
+          "designator": "D4",
+          "pin": "1",
+          "name": "K",
+          "point": [
+            890,
+            490
+          ]
+        },
+        {
+          "designator": "TP19",
+          "pin": "1",
+          "name": "1",
+          "point": [
+            1310,
+            480
+          ]
+        },
+        {
+          "designator": "R40",
+          "pin": "1",
+          "name": "1",
+          "point": [
+            1140,
+            470
+          ]
+        }
+      ],
+      "id": 20
+    },
+    {
+      "labels": [
+        "ISOL4-"
+      ],
+      "pins": [
+        {
+          "designator": "U4",
+          "pin": "8",
+          "name": "VEE2",
+          "point": [
+            560,
+            410
+          ]
+        },
+        {
+          "designator": "PS4",
+          "pin": "4",
+          "name": "-VOUT",
+          "point": [
+            540,
+            510
+          ]
+        },
+        {
+          "designator": "C31",
+          "pin": "2",
+          "name": "2",
+          "point": [
+            610,
+            520
+          ]
+        },
+        {
+          "designator": "C33",
+          "pin": "2",
+          "name": "2",
+          "point": [
+            570,
+            510
+          ]
+        },
+        {
+          "designator": "C35",
+          "pin": "2",
+          "name": "2",
+          "point": [
+            680,
+            410
+          ]
+        },
+        {
+          "designator": "C36",
+          "pin": "2",
+          "name": "2",
+          "point": [
+            710,
+            410
+          ]
+        },
+        {
+          "designator": "J12",
+          "pin": "2",
+          "name": "2",
+          "point": [
+            990,
+            430
+          ]
+        },
+        {
+          "designator": "R7",
+          "pin": "2",
+          "name": "2",
+          "point": [
+            860,
+            520
+          ]
+        },
+        {
+          "designator": "D4",
+          "pin": "2",
+          "name": "A",
+          "point": [
+            940,
+            490
+          ]
+        },
+        {
+          "designator": "TP22",
+          "pin": "1",
+          "name": "1",
+          "point": [
+            1310,
+            440
+          ]
+        },
+        {
+          "designator": "DS7",
+          "pin": "1",
+          "name": "K",
+          "point": [
+            1260,
+            470
+          ]
+        }
+      ],
+      "id": 21
+    },
+    {
+      "labels": [
+        "ISOL5+"
+      ],
+      "pins": [
+        {
+          "designator": "U5",
+          "pin": "5",
+          "name": "VCC2",
+          "point": [
+            1150,
+            290
+          ]
+        },
+        {
+          "designator": "PS5",
+          "pin": "6",
+          "name": "+VOUT",
+          "point": [
+            1130,
+            350
+          ]
+        },
+        {
+          "designator": "C37",
+          "pin": "1",
+          "name": "1",
+          "point": [
+            1200,
+            360
+          ]
+        },
+        {
+          "designator": "C39",
+          "pin": "1",
+          "name": "1",
+          "point": [
+            1160,
+            350
+          ]
+        },
+        {
+          "designator": "C41",
+          "pin": "1",
+          "name": "1",
+          "point": [
+            1270,
+            250
+          ]
+        },
+        {
+          "designator": "C42",
+          "pin": "1",
+          "name": "1",
+          "point": [
+            1300,
+            250
+          ]
+        },
+        {
+          "designator": "R9",
+          "pin": "1",
+          "name": "1",
+          "point": [
+            1380,
+            350
+          ]
+        },
+        {
+          "designator": "D5",
+          "pin": "1",
+          "name": "K",
+          "point": [
+            1480,
+            320
+          ]
+        },
+        {
+          "designator": "TP25",
+          "pin": "1",
+          "name": "1",
+          "point": [
+            1900,
+            310
+          ]
+        },
+        {
+          "designator": "R41",
+          "pin": "1",
+          "name": "1",
+          "point": [
+            1710,
+            300
+          ]
+        }
+      ],
+      "id": 22
+    },
+    {
+      "labels": [
+        "ISOL5-"
+      ],
+      "pins": [
+        {
+          "designator": "U5",
+          "pin": "8",
+          "name": "VEE2",
+          "point": [
+            1150,
+            230
+          ]
+        },
+        {
+          "designator": "PS5",
+          "pin": "4",
+          "name": "-VOUT",
+          "point": [
+            1130,
+            330
+          ]
+        },
+        {
+          "designator": "C37",
+          "pin": "2",
+          "name": "2",
+          "point": [
+            1200,
+            340
+          ]
+        },
+        {
+          "designator": "C39",
+          "pin": "2",
+          "name": "2",
+          "point": [
+            1160,
+            330
+          ]
+        },
+        {
+          "designator": "C41",
+          "pin": "2",
+          "name": "2",
+          "point": [
+            1270,
+            230
+          ]
+        },
+        {
+          "designator": "C42",
+          "pin": "2",
+          "name": "2",
+          "point": [
+            1300,
+            230
+          ]
+        },
+        {
+          "designator": "J13",
+          "pin": "2",
+          "name": "2",
+          "point": [
+            1580,
+            250
+          ]
+        },
+        {
+          "designator": "R9",
+          "pin": "2",
+          "name": "2",
+          "point": [
+            1450,
+            350
+          ]
+        },
+        {
+          "designator": "D5",
+          "pin": "2",
+          "name": "A",
+          "point": [
+            1530,
+            320
+          ]
+        },
+        {
+          "designator": "TP28",
+          "pin": "1",
+          "name": "1",
+          "point": [
+            1900,
+            260
+          ]
+        },
+        {
+          "designator": "DS8",
+          "pin": "1",
+          "name": "K",
+          "point": [
+            1840,
+            300
+          ]
+        }
+      ],
+      "id": 23
+    },
+    {
+      "labels": [
+        "ISOL6+"
+      ],
+      "pins": [
+        {
+          "designator": "U6",
+          "pin": "5",
+          "name": "VCC2",
+          "point": [
+            550,
+            120
+          ]
+        },
+        {
+          "designator": "PS6",
+          "pin": "6",
+          "name": "+VOUT",
+          "point": [
+            530,
+            180
+          ]
+        },
+        {
+          "designator": "C43",
+          "pin": "1",
+          "name": "1",
+          "point": [
+            600,
+            190
+          ]
+        },
+        {
+          "designator": "C45",
+          "pin": "1",
+          "name": "1",
+          "point": [
+            560,
+            180
+          ]
+        },
+        {
+          "designator": "C47",
+          "pin": "1",
+          "name": "1",
+          "point": [
+            670,
+            80
+          ]
+        },
+        {
+          "designator": "C48",
+          "pin": "1",
+          "name": "1",
+          "point": [
+            700,
+            80
+          ]
+        },
+        {
+          "designator": "R11",
+          "pin": "1",
+          "name": "1",
+          "point": [
+            780,
+            170
+          ]
+        },
+        {
+          "designator": "D6",
+          "pin": "1",
+          "name": "K",
+          "point": [
+            880,
+            140
+          ]
+        },
+        {
+          "designator": "TP30",
+          "pin": "1",
+          "name": "1",
+          "point": [
+            1320,
+            130
+          ]
+        },
+        {
+          "designator": "R42",
+          "pin": "1",
+          "name": "1",
+          "point": [
+            1130,
+            130
+          ]
+        }
+      ],
+      "id": 24
+    },
+    {
+      "labels": [
+        "ISOL6-"
+      ],
+      "pins": [
+        {
+          "designator": "U6",
+          "pin": "8",
+          "name": "VEE2",
+          "point": [
+            550,
+            60
+          ]
+        },
+        {
+          "designator": "PS6",
+          "pin": "4",
+          "name": "-VOUT",
+          "point": [
+            530,
+            160
+          ]
+        },
+        {
+          "designator": "C43",
+          "pin": "2",
+          "name": "2",
+          "point": [
+            600,
+            170
+          ]
+        },
+        {
+          "designator": "C45",
+          "pin": "2",
+          "name": "2",
+          "point": [
+            560,
+            160
+          ]
+        },
+        {
+          "designator": "C47",
+          "pin": "2",
+          "name": "2",
+          "point": [
+            670,
+            60
+          ]
+        },
+        {
+          "designator": "C48",
+          "pin": "2",
+          "name": "2",
+          "point": [
+            700,
+            60
+          ]
+        },
+        {
+          "designator": "J14",
+          "pin": "2",
+          "name": "2",
+          "point": [
+            980,
+            80
+          ]
+        },
+        {
+          "designator": "R11",
+          "pin": "2",
+          "name": "2",
+          "point": [
+            850,
+            170
+          ]
+        },
+        {
+          "designator": "D6",
+          "pin": "2",
+          "name": "A",
+          "point": [
+            930,
+            140
+          ]
+        },
+        {
+          "designator": "TP32",
+          "pin": "1",
+          "name": "1",
+          "point": [
+            1320,
+            80
+          ]
+        },
+        {
+          "designator": "DS9",
+          "pin": "1",
+          "name": "K",
+          "point": [
+            1250,
+            130
+          ]
+        }
+      ],
+      "id": 25
+    },
+    {
+      "labels": [
+        "Enable2"
+      ],
+      "pins": [
+        {
+          "designator": "U7",
+          "pin": "19",
+          "name": "2O\\E\\",
+          "point": [
+            120,
+            1340
+          ]
+        },
+        {
+          "designator": "J3",
+          "pin": "2",
+          "name": "2",
+          "point": [
+            90,
+            880
+          ]
+        },
+        {
+          "designator": "R32",
+          "pin": "1",
+          "name": "1",
+          "point": [
+            1090,
+            1270
+          ]
+        },
+        {
+          "designator": "R34",
+          "pin": "1",
+          "name": "1",
+          "point": [
+            50,
+            830
+          ]
+        }
+      ],
+      "id": 26
+    },
+    {
+      "labels": [
+        "Enable1"
+      ],
+      "pins": [
+        {
+          "designator": "U7",
+          "pin": "1",
+          "name": "1O\\E\\",
+          "point": [
+            300,
+            1320
+          ]
+        },
+        {
+          "designator": "J3",
+          "pin": "1",
+          "name": "1",
+          "point": [
+            90,
+            900
+          ]
+        },
+        {
+          "designator": "R30",
+          "pin": "1",
+          "name": "1",
+          "point": [
+            1090,
+            1360
+          ]
+        },
+        {
+          "designator": "R33",
+          "pin": "1",
+          "name": "1",
+          "point": [
+            60,
+            630
+          ]
+        }
+      ],
+      "id": 27
+    },
+    {
+      "labels": [
+        "Buffer1"
+      ],
+      "pins": [
+        {
+          "designator": "U1",
+          "pin": "2",
+          "name": "IN+",
+          "point": [
+            970,
+            1030
+          ]
+        },
+        {
+          "designator": "R21",
+          "pin": "2",
+          "name": "2",
+          "point": [
+            870,
+            1060
+          ]
+        },
+        {
+          "designator": "U7",
+          "pin": "18",
+          "name": "1Y1",
+          "point": [
+            400,
+            1300
+          ]
+        },
+        {
+          "designator": "R19",
+          "pin": "1",
+          "name": "1",
+          "point": [
+            480,
+            1260
+          ]
+        },
+        {
+          "designator": "TP3",
+          "pin": "1",
+          "name": "1",
+          "point": [
+            480,
+            1200
+          ]
+        }
+      ],
+      "id": 28
+    },
+    {
+      "labels": [
+        "Buffer2"
+      ],
+      "pins": [
+        {
+          "designator": "U2",
+          "pin": "2",
+          "name": "IN+",
+          "point": [
+            420,
+            810
+          ]
+        },
+        {
+          "designator": "R23",
+          "pin": "2",
+          "name": "2",
+          "point": [
+            320,
+            840
+          ]
+        },
+        {
+          "designator": "U7",
+          "pin": "16",
+          "name": "1Y2",
+          "point": [
+            400,
+            1290
+          ]
+        },
+        {
+          "designator": "R20",
+          "pin": "1",
+          "name": "1",
+          "point": [
+            580,
+            1260
+          ]
+        },
+        {
+          "designator": "TP4",
+          "pin": "1",
+          "name": "1",
+          "point": [
+            580,
+            1200
+          ]
+        }
+      ],
+      "id": 29
+    },
+    {
+      "labels": [
+        "Buffer3"
+      ],
+      "pins": [
+        {
+          "designator": "U3",
+          "pin": "2",
+          "name": "IN+",
+          "point": [
+            960,
+            620
+          ]
+        },
+        {
+          "designator": "R25",
+          "pin": "2",
+          "name": "2",
+          "point": [
+            860,
+            650
+          ]
+        },
+        {
+          "designator": "U7",
+          "pin": "14",
+          "name": "1Y3",
+          "point": [
+            400,
+            1280
+          ]
+        },
+        {
+          "designator": "R22",
+          "pin": "1",
+          "name": "1",
+          "point": [
+            680,
+            1260
+          ]
+        },
+        {
+          "designator": "TP5",
+          "pin": "1",
+          "name": "1",
+          "point": [
+            680,
+            1200
+          ]
+        }
+      ],
+      "id": 30
+    },
+    {
+      "labels": [
+        "Buffer4"
+      ],
+      "pins": [
+        {
+          "designator": "U4",
+          "pin": "2",
+          "name": "IN+",
+          "point": [
+            400,
+            450
+          ]
+        },
+        {
+          "designator": "R27",
+          "pin": "2",
+          "name": "2",
+          "point": [
+            300,
+            480
+          ]
+        },
+        {
+          "designator": "U7",
+          "pin": "12",
+          "name": "1Y4",
+          "point": [
+            400,
+            1270
+          ]
+        },
+        {
+          "designator": "R24",
+          "pin": "1",
+          "name": "1",
+          "point": [
+            770,
+            1260
+          ]
+        },
+        {
+          "designator": "TP6",
+          "pin": "1",
+          "name": "1",
+          "point": [
+            770,
+            1200
+          ]
+        }
+      ],
+      "id": 31
+    },
+    {
+      "labels": [
+        "Buffer5"
+      ],
+      "pins": [
+        {
+          "designator": "U5",
+          "pin": "2",
+          "name": "IN+",
+          "point": [
+            990,
+            270
+          ]
+        },
+        {
+          "designator": "R29",
+          "pin": "2",
+          "name": "2",
+          "point": [
+            890,
+            300
+          ]
+        },
+        {
+          "designator": "U7",
+          "pin": "9",
+          "name": "2Y1",
+          "point": [
+            220,
+            1320
+          ]
+        },
+        {
+          "designator": "R26",
+          "pin": "1",
+          "name": "1",
+          "point": [
+            860,
+            1260
+          ]
+        },
+        {
+          "designator": "TP7",
+          "pin": "1",
+          "name": "1",
+          "point": [
+            860,
+            1200
+          ]
+        }
+      ],
+      "id": 32
+    },
+    {
+      "labels": [
+        "Buffer6"
+      ],
+      "pins": [
+        {
+          "designator": "U6",
+          "pin": "2",
+          "name": "IN+",
+          "point": [
+            390,
+            100
+          ]
+        },
+        {
+          "designator": "R31",
+          "pin": "2",
+          "name": "2",
+          "point": [
+            290,
+            130
+          ]
+        },
+        {
+          "designator": "U7",
+          "pin": "7",
+          "name": "2Y2",
+          "point": [
+            220,
+            1310
+          ]
+        },
+        {
+          "designator": "R28",
+          "pin": "1",
+          "name": "1",
+          "point": [
+            960,
+            1260
+          ]
+        },
+        {
+          "designator": "TP8",
+          "pin": "1",
+          "name": "1",
+          "point": [
+            960,
+            1200
+          ]
+        }
+      ],
+      "id": 33
+    },
+    {
+      "labels": [],
+      "pins": [
+        {
+          "designator": "U1",
+          "pin": "1",
+          "name": "VCC1",
+          "point": [
+            970,
+            1050
+          ]
+        },
+        {
+          "designator": "PS1",
+          "pin": "1",
+          "name": "+VIN",
+          "point": [
+            980,
+            1110
+          ]
+        },
+        {
+          "designator": "C16",
+          "pin": "1",
+          "name": "1",
+          "point": [
+            830,
+            1020
+          ]
+        },
+        {
+          "designator": "C14",
+          "pin": "1",
+          "name": "1",
+          "point": [
+            940,
+            1110
+          ]
+        },
+        {
+          "designator": "EN1",
+          "pin": "2",
+          "name": "2",
+          "point": [
+            710,
+            1100
+          ]
+        }
+      ],
+      "id": 34
+    },
+    {
+      "labels": [],
+      "pins": [
+        {
+          "designator": "U1",
+          "pin": "6",
+          "name": "OUT",
+          "point": [
+            1130,
+            1030
+          ]
+        },
+        {
+          "designator": "R2",
+          "pin": "1",
+          "name": "1",
+          "point": [
+            1130,
+            1030
+          ]
+        }
+      ],
+      "id": 35
+    },
+    {
+      "labels": [],
+      "pins": [
+        {
+          "designator": "U2",
+          "pin": "1",
+          "name": "VCC1",
+          "point": [
+            420,
+            830
+          ]
+        },
+        {
+          "designator": "PS2",
+          "pin": "1",
+          "name": "+VIN",
+          "point": [
+            430,
+            890
+          ]
+        },
+        {
+          "designator": "C22",
+          "pin": "1",
+          "name": "1",
+          "point": [
+            280,
+            800
+          ]
+        },
+        {
+          "designator": "C20",
+          "pin": "1",
+          "name": "1",
+          "point": [
+            390,
+            890
+          ]
+        },
+        {
+          "designator": "EN2",
+          "pin": "2",
+          "name": "2",
+          "point": [
+            220,
+            880
+          ]
+        }
+      ],
+      "id": 36
+    },
+    {
+      "labels": [],
+      "pins": [
+        {
+          "designator": "U2",
+          "pin": "6",
+          "name": "OUT",
+          "point": [
+            580,
+            810
+          ]
+        },
+        {
+          "designator": "R4",
+          "pin": "1",
+          "name": "1",
+          "point": [
+            580,
+            810
+          ]
+        }
+      ],
+      "id": 37
+    },
+    {
+      "labels": [],
+      "pins": [
+        {
+          "designator": "U3",
+          "pin": "1",
+          "name": "VCC1",
+          "point": [
+            960,
+            640
+          ]
+        },
+        {
+          "designator": "PS3",
+          "pin": "1",
+          "name": "+VIN",
+          "point": [
+            970,
+            700
+          ]
+        },
+        {
+          "designator": "C28",
+          "pin": "1",
+          "name": "1",
+          "point": [
+            820,
+            610
+          ]
+        },
+        {
+          "designator": "C26",
+          "pin": "1",
+          "name": "1",
+          "point": [
+            930,
+            700
+          ]
+        },
+        {
+          "designator": "EN3",
+          "pin": "2",
+          "name": "2",
+          "point": [
+            750,
+            670
+          ]
+        }
+      ],
+      "id": 38
+    },
+    {
+      "labels": [],
+      "pins": [
+        {
+          "designator": "U3",
+          "pin": "6",
+          "name": "OUT",
+          "point": [
+            1120,
+            620
+          ]
+        },
+        {
+          "designator": "R6",
+          "pin": "1",
+          "name": "1",
+          "point": [
+            1120,
+            620
+          ]
+        }
+      ],
+      "id": 39
+    },
+    {
+      "labels": [],
+      "pins": [
+        {
+          "designator": "U4",
+          "pin": "1",
+          "name": "VCC1",
+          "point": [
+            400,
+            470
+          ]
+        },
+        {
+          "designator": "PS4",
+          "pin": "1",
+          "name": "+VIN",
+          "point": [
+            410,
+            530
+          ]
+        },
+        {
+          "designator": "C34",
+          "pin": "1",
+          "name": "1",
+          "point": [
+            260,
+            440
+          ]
+        },
+        {
+          "designator": "C32",
+          "pin": "1",
+          "name": "1",
+          "point": [
+            370,
+            530
+          ]
+        },
+        {
+          "designator": "EN4",
+          "pin": "2",
+          "name": "2",
+          "point": [
+            210,
+            500
+          ]
+        }
+      ],
+      "id": 40
+    },
+    {
+      "labels": [],
+      "pins": [
+        {
+          "designator": "U4",
+          "pin": "6",
+          "name": "OUT",
+          "point": [
+            560,
+            450
+          ]
+        },
+        {
+          "designator": "R8",
+          "pin": "1",
+          "name": "1",
+          "point": [
+            560,
+            450
+          ]
+        }
+      ],
+      "id": 41
+    },
+    {
+      "labels": [],
+      "pins": [
+        {
+          "designator": "U5",
+          "pin": "1",
+          "name": "VCC1",
+          "point": [
+            990,
+            290
+          ]
+        },
+        {
+          "designator": "PS5",
+          "pin": "1",
+          "name": "+VIN",
+          "point": [
+            1000,
+            350
+          ]
+        },
+        {
+          "designator": "C40",
+          "pin": "1",
+          "name": "1",
+          "point": [
+            850,
+            260
+          ]
+        },
+        {
+          "designator": "C38",
+          "pin": "1",
+          "name": "1",
+          "point": [
+            960,
+            350
+          ]
+        },
+        {
+          "designator": "EN5",
+          "pin": "2",
+          "name": "2",
+          "point": [
+            770,
+            330
+          ]
+        }
+      ],
+      "id": 42
+    },
+    {
+      "labels": [],
+      "pins": [
+        {
+          "designator": "U5",
+          "pin": "6",
+          "name": "OUT",
+          "point": [
+            1150,
+            270
+          ]
+        },
+        {
+          "designator": "R10",
+          "pin": "1",
+          "name": "1",
+          "point": [
+            1150,
+            270
+          ]
+        }
+      ],
+      "id": 43
+    },
+    {
+      "labels": [],
+      "pins": [
+        {
+          "designator": "U6",
+          "pin": "1",
+          "name": "VCC1",
+          "point": [
+            390,
+            120
+          ]
+        },
+        {
+          "designator": "PS6",
+          "pin": "1",
+          "name": "+VIN",
+          "point": [
+            400,
+            180
+          ]
+        },
+        {
+          "designator": "C46",
+          "pin": "1",
+          "name": "1",
+          "point": [
+            250,
+            90
+          ]
+        },
+        {
+          "designator": "C44",
+          "pin": "1",
+          "name": "1",
+          "point": [
+            360,
+            180
+          ]
+        },
+        {
+          "designator": "EN6",
+          "pin": "2",
+          "name": "2",
+          "point": [
+            210,
+            150
+          ]
+        }
+      ],
+      "id": 44
+    },
+    {
+      "labels": [],
+      "pins": [
+        {
+          "designator": "U6",
+          "pin": "6",
+          "name": "OUT",
+          "point": [
+            550,
+            100
+          ]
+        },
+        {
+          "designator": "R12",
+          "pin": "1",
+          "name": "1",
+          "point": [
+            550,
+            100
+          ]
+        }
+      ],
+      "id": 45
+    },
+    {
+      "labels": [],
+      "pins": [
+        {
+          "designator": "U7",
+          "pin": "3",
+          "name": "2Y4",
+          "point": [
+            220,
+            1290
+          ]
+        }
+      ],
+      "id": 46
+    },
+    {
+      "labels": [],
+      "pins": [
+        {
+          "designator": "U7",
+          "pin": "5",
+          "name": "2Y3",
+          "point": [
+            220,
+            1300
+          ]
+        }
+      ],
+      "id": 47
+    },
+    {
+      "labels": [],
+      "pins": [
+        {
+          "designator": "R37",
+          "pin": "2",
+          "name": "2",
+          "point": [
+            1740,
+            1080
+          ]
+        },
+        {
+          "designator": "DS2",
+          "pin": "2",
+          "name": "A",
+          "point": [
+            1740,
+            1080
+          ]
+        }
+      ],
+      "id": 48
+    },
+    {
+      "labels": [],
+      "pins": [
+        {
+          "designator": "R38",
+          "pin": "2",
+          "name": "2",
+          "point": [
+            1200,
+            820
+          ]
+        },
+        {
+          "designator": "DS3",
+          "pin": "2",
+          "name": "A",
+          "point": [
+            1200,
+            820
+          ]
+        }
+      ],
+      "id": 49
+    },
+    {
+      "labels": [],
+      "pins": [
+        {
+          "designator": "R39",
+          "pin": "2",
+          "name": "2",
+          "point": [
+            1750,
+            640
+          ]
+        },
+        {
+          "designator": "DS5",
+          "pin": "2",
+          "name": "A",
+          "point": [
+            1750,
+            640
+          ]
+        }
+      ],
+      "id": 50
+    },
+    {
+      "labels": [],
+      "pins": [
+        {
+          "designator": "R40",
+          "pin": "2",
+          "name": "2",
+          "point": [
+            1210,
+            470
+          ]
+        },
+        {
+          "designator": "DS7",
+          "pin": "2",
+          "name": "A",
+          "point": [
+            1210,
+            470
+          ]
+        }
+      ],
+      "id": 51
+    },
+    {
+      "labels": [],
+      "pins": [
+        {
+          "designator": "R41",
+          "pin": "2",
+          "name": "2",
+          "point": [
+            1780,
+            300
+          ]
+        },
+        {
+          "designator": "DS8",
+          "pin": "2",
+          "name": "A",
+          "point": [
+            1790,
+            300
+          ]
+        }
+      ],
+      "id": 52
+    },
+    {
+      "labels": [],
+      "pins": [
+        {
+          "designator": "R42",
+          "pin": "2",
+          "name": "2",
+          "point": [
+            1200,
+            130
+          ]
+        },
+        {
+          "designator": "DS9",
+          "pin": "2",
+          "name": "A",
+          "point": [
+            1200,
+            130
+          ]
+        }
+      ],
+      "id": 53
+    },
+    {
+      "labels": [],
+      "pins": [
+        {
+          "designator": "R33",
+          "pin": "2",
+          "name": "2",
+          "point": [
+            60,
+            560
+          ]
+        },
+        {
+          "designator": "DS6",
+          "pin": "2",
+          "name": "A",
+          "point": [
+            60,
+            560
+          ]
+        }
+      ],
+      "id": 54
+    },
+    {
+      "labels": [],
+      "pins": [
+        {
+          "designator": "R34",
+          "pin": "2",
+          "name": "2",
+          "point": [
+            50,
+            760
+          ]
+        },
+        {
+          "designator": "DS4",
+          "pin": "2",
+          "name": "A",
+          "point": [
+            50,
+            760
+          ]
+        }
+      ],
+      "id": 55
+    },
+    {
+      "labels": [],
+      "pins": [
+        {
+          "designator": "R35",
+          "pin": "2",
+          "name": "2",
+          "point": [
+            270,
+            1100
+          ]
+        },
+        {
+          "designator": "DS1",
+          "pin": "2",
+          "name": "A",
+          "point": [
+            280,
+            1100
+          ]
+        }
+      ],
+      "id": 56
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "snapshot_date": "2026-10-08",
+  "pcb_revision_text": "Rev. E",
+  "files": [
+    {
+      "file": "hardware/Sheet2.SchDoc",
+      "source_relative": "3-phase-inverter/Sheet2.SchDoc",
+      "bytes": 1401344,
+      "sha256": "9fb0d58a0eebe4ee72d29c01b94c2676cc5a1ff5518863062b1dcd219a133f8b",
+      "source_modified": "2026-10-03T14:15:18.633665"
+    },
+    {
+      "file": "hardware/PCB2.PcbDoc",
+      "source_relative": "3-phase-inverter/PCB2.PcbDoc",
+      "bytes": 5092864,
+      "sha256": "08c91bc1f1f9cca9b33c82364f06f8a9d294da867d3647767723be2dd07bb29c",
+      "source_modified": "2026-10-07T05:55:46.954000"
+    },
+    {
+      "file": "hardware/libraries/GPIO_Headers.PcbLib",
+      "source_relative": "gate_drive_board/altium_placement_transfer/GPIO_Headers.PcbLib",
+      "bytes": 180224,
+      "sha256": "9a77d304f3d4fbc500bd33ff7e53510252cdbb8f159cac01fac07572fcebe3bc",
+      "source_modified": "2026-10-04T02:19:19.514000"
+    },
+    {
+      "file": "hardware/isolated-gate-driver.PrjPcb",
+      "source_relative": "gate_drive_board/gate_drive_board/gate_drive_board.PrjPcb",
+      "change": "Project document paths made portable; stale BOM, PDN, OutJob and generated report entries omitted. Electrical design documents unchanged."
+    }
+  ]
+}

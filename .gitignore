@@ -1,0 +1,11 @@
+History/
+__Previews/
+Project Logs*/
+Project Outputs*/
+*.PrjPcbStructure
+*.PcbDoc.htm
+*.SchDoc.htm
+*.bak
+*.log
+~$*
+__pycache__/
