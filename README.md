@@ -35,6 +35,10 @@ The board separates a controller's PWM commands from six independently reference
 
 ![Functional architecture](docs/images/architecture.svg)
 
+![Rev E schematic supplied by Darsh Patel](docs/images/reve-schematic.png)
+
+*Rev E schematic: shared PWM buffer and enable circuitry with six isolated supply and gate-driver channels. Click the image to inspect it at full resolution. Some component values and part numbers are CAD placeholders; use the component-selection notes when interpreting them.*
+
 ![Rev E copper and silkscreen view supplied by Darsh Patel](docs/images/reve-copper.png)
 
 *User-supplied Altium copper view, showing six channel columns and the shared PWM interface. This image is documentation, not a DRC or isolation qualification report.*
