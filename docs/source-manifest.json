@@ -12,9 +12,9 @@
     {
       "file": "hardware/PCB2.PcbDoc",
       "source_relative": "3-phase-inverter/PCB2.PcbDoc",
-      "bytes": 5092864,
-      "sha256": "08c91bc1f1f9cca9b33c82364f06f8a9d294da867d3647767723be2dd07bb29c",
-      "source_modified": "2026-10-07T05:55:46.954000"
+      "bytes": 5093376,
+      "sha256": "ab88d8f033452d4d749b7f459225795df3f0cf12a0b0591384fdab6ddb15cc9b",
+      "source_modified": "2026-10-08T02:44:43.086000"
     },
     {
       "file": "hardware/libraries/GPIO_Headers.PcbLib",

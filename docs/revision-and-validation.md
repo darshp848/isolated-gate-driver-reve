@@ -2,11 +2,11 @@
 
 ## Publication snapshot — October 8, 2026
 
-The native board contains the text **Rev. E** and was last saved October 7, 2026. The associated Sheet2 schematic was saved October 3. Source paths and SHA-256 hashes are in [source-manifest.json](source-manifest.json). The schematic has 152 unique designators; the board has 155 component records, including three additional fiducials. Equal counts would not prove connectivity; these counts are inventory evidence only.
+The native board contains the text **Rev. E** and was last saved October 8, 2026, at 02:44:43 local time after the user reported a silkscreen correction. The associated Sheet2 schematic was saved October 3. Source paths and SHA-256 hashes are in [source-manifest.json](source-manifest.json). The schematic has 152 unique designators; the board has 155 component records, including three additional fiducials. Equal counts would not prove connectivity; these counts are inventory evidence only.
 
 The publication check read the saved binary documents, confirmed revision text and footprint patterns, identified the project's actual linked files, and compared copied-file hashes. All project document paths resolve inside the repository. This was packaging and documentation, not a fresh CAD or hardware acceptance test.
 
-The copper and 3D illustrations were supplied by Darsh Patel during publication and visibly identify Rev E. They are not regenerated outputs tied to the source hashes. An offline diagnostic of the current saved schematic resolved 344 pin endpoints into 57 groups, including the gate-side clamp, OE pullups and EN supply jumpers. That diagnostic does not replace native compilation or a current PCB pad-net comparison.
+The copper and 3D illustrations were supplied by Darsh Patel during publication and visibly identify Rev E. They precede the newly reported silkscreen correction and are not regenerated outputs tied to the source hashes. An offline diagnostic of the current saved schematic resolved 344 pin endpoints into 57 groups, including the gate-side clamp, OE pullups and EN supply jumpers. That diagnostic does not replace native compilation or a current PCB pad-net comparison.
 
 ## Earlier development
 

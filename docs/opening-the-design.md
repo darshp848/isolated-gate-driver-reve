@@ -14,4 +14,4 @@ Work in a copy of the repository. Compile the project, inspect messages, compare
 
 Create new output jobs for the reviewed revision: schematic PDF, assembly BOM with DNP flags, pick-and-place file, fabrication drawings, Gerbers and drill files. Inspect the generated layers independently. This snapshot includes no Rev E Gerber release; prior October 4 ZIPs precede the latest board save.
 
-The opening and export workflow follows [Altium project documentation](https://www.altium.com/documentation/altium-designer/creating-projects-documents) and [output jobs](https://www.altium.com/documentation/altium-designer/preparing-multiple-outputs-outputjob).
+The project organization follows [Altium project documentation](https://www.altium.com/documentation/altium-designer/creating-projects-documents). Output generation remains a separate review step in Altium.

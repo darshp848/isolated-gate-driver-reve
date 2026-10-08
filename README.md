@@ -25,9 +25,9 @@ An Altium PCB for controlling six floating transistor gates from a low-voltage P
 
 ## Status
 
-The snapshot was packaged October 8, 2026. The board was saved October 7; the schematic was saved October 3. There are 152 unique schematic designators and 155 PCB component records, including three PCB fiducials. Original design binaries are preserved byte-for-byte. Only the project wrapper was adjusted to remove external file paths and references to omitted generated outputs.
+The snapshot was packaged October 8, 2026, including the user's newly saved Rev E silkscreen correction that day. The schematic was saved October 3. There are 152 unique schematic designators and 155 PCB component records, including three PCB fiducials. Original design binaries are preserved byte-for-byte. Only the project wrapper was adjusted to remove external file paths and references to omitted generated outputs.
 
-October 3 routing/DRC results predate Rev E's October 7 edits and do not certify this snapshot. No fresh Altium compile, ECO comparison, repour, DRC or bench qualification was performed for this publication. Old fabrication ZIPs are deliberately excluded; regenerate outputs from the reviewed final design. No complete order-ready Rev E BOM is supplied.
+October 3 routing/DRC results predate Rev E's October 7–8 edits and do not certify this snapshot. No fresh Altium compile, ECO comparison, repour, DRC or bench qualification was performed for this publication. Old fabrication ZIPs are deliberately excluded; regenerate outputs from the reviewed final design. No complete order-ready Rev E BOM is supplied.
 
 ## Purpose
 
